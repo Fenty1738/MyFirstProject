@@ -1,3 +1,4 @@
+im.db filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 /combined_table_imdb filter=lfs diff=lfs merge=lfs -text
