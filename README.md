@@ -8,7 +8,7 @@ This project hosts an in-depth data exploration endeavor targeting Microsoft's v
 ## Objectives
 
 * Analyze the movie industry: Provide insights and recommendations for Microsoft Corporation regarding potential entry into the movie business.
-* 
+  
 Analyze current trends: Understand trends in the movie industry to make informed decisions about venturing into film production.
 
 * Identify best-suited films: Determine the types of films (genres, ratings, release dates) that perform best at the box office.
