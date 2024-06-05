@@ -1,5 +1,4 @@
-![MICROSOFT MOVIE ANALYSIS](microsoft.jpg)
-
+![Alt Text](https://img.etimg.com/thumb/msid-98721376,width-650,height-488,imgsize-57940,resizemode-75/microsoft-copilot.jpg)
 # Movie Industry Market Analysis - EDA with Pandas
 
 ## Introduction
