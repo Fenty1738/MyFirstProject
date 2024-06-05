@@ -1,5 +1,5 @@
 ![Alt Text](https://variety.com/wp-content/uploads/2017/03/movie-business-consumer-demand.jpg?w=1000&h=562&crop=1&resize=681%2C383)
-# Movie Industry Market Analysis - EDA with Pandas
+# Movie Industry Market Analysis - EDA with Pandas (MICROSOFT CORPORATION)
 
 ## Introduction
 
