@@ -1,4 +1,4 @@
-![Alt Text](https://img.etimg.com/thumb/msid-98721376,width-650,height-488,imgsize-57940,resizemode-75/microsoft-copilot.jpg)
+![Alt Text](https://variety.com/wp-content/uploads/2017/03/movie-business-consumer-demand.jpg?w=1000&h=562&crop=1&resize=681%2C383)
 # Movie Industry Market Analysis - EDA with Pandas
 
 ## Introduction
